@@ -51,6 +51,10 @@ Le applicazioni trattate sono in corso di definizione e seranno scelte sia in ba
 [T4]: https://docs.python.org/3/tutorial/controlflow.html
 [T5]: https://docs.python.org/3/tutorial/datastructures.html
 
+## Consegnare gli esercizi
+
+Al fine di raccogliere elementi per la valutazione finale, durante le lezioni sono proposti degli esercizi che possono essere consegnati tramite l'[apposita form](https://forms.office.com/e/evFXfhYAGL).
+
 ## Materiale didattico
 
 Il materiale didattico del corso è costituito da testi ad accesso libero:

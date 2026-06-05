@@ -1,9 +1,12 @@
 .venv/
 venv/
+uv.lock
 lezioni/chiedove-unimi/
 lezioni/esempio/
 lezioni/L06/chiedove.html
 lezioni/L06/tesi-spa.csv
+lezioni/L07/pubblicazioni.db
+lezioni/L08/test.db
 valutazioni/valutazioni.csv
 valutazioni/soluzioni.xlsx
 valutazioni/soluzioni/
